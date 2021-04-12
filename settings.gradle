@@ -1,0 +1,3 @@
+rootProject.name = 'simple-android-dependency-check'
+enableFeaturePreview("GRADLE_METADATA")
+
